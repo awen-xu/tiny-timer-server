@@ -1,0 +1,19 @@
+{
+  "name": "tiny-timer-server",
+  "version": "1.0.0",
+  "description": "Server for Rubik's Cube puzzle timing app.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awen-xu/tiny-timer-server.git"
+  },
+  "author": "Ashleigh Xu, Kevin Xu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awen-xu/tiny-timer-server/issues"
+  },
+  "homepage": "https://github.com/awen-xu/tiny-timer-server#readme"
+}
