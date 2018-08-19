@@ -1,1 +1,1 @@
-# tiny-timer-server
+# Tiny Timer Server
